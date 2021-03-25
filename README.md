@@ -47,10 +47,10 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[Stackoverflow, Youtube JavaScript tutorial]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[This is my first  experiencing with JavaScript CSS coding. Actually, I have not leaned JavaScript in school yet. I have  heard JavaScript before, but I never done coding it. I was a interesting experience in my web programing kick-off. The way i overcame this challenge was by following the instructions which were very helpful and I also google consele error messages]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
