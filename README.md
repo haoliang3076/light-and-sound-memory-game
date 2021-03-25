@@ -50,13 +50,13 @@ Here's a walkthrough of implemented user stories:
 [Stackoverflow, Youtube JavaScript tutorial]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[This is my first  experiencing with JavaScript CSS coding. Actually, I haven't learned JavaScript in school yet. I have heard JavaScript before, but I never done coding it. I was a interesting experience in my web programing kick-off. The way I overcame this challenge was by following the instructions which were very helpful and I also google console log errors when pressed  F12.]
+[This is my first experience with JavaScript CSS coding. I haven't learned JavaScript in school yet. I have heard of JavaScript before, but I have never done coding it. It was an interesting experience in my web programming kick-off. The way I overcame this challenge was by following the very helpful instructions and I also google console log errors when pressed  F12.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[Since this is my first time web developemnt, I wan to ask how is web development handlding data. For example, If this have login account feature, then players data should store somewhere. I have learned that iOS programming used back4app.com to stored data. I was wondering what kind the backend service will used in web development? Is back4app.com will also work on web devlopment in terms of cost and time? ]
+[Since this is my first-time web development, I want to ask how is web development handling data. For example, If this has a login account feature, then players' data should store somewhere. I have learned that iOS programming used back4app.com to stored data. I was wondering what kind the backend service will use in web development? Is back4app.com will also work on web development in terms of cost and time? ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[finishing ]
+[f I will have more time to work on this project, I would first try to add all optional features list above more buttons, playback speed, and stopwatch features. Also, I want to add different level modes, easy, medium, and hard with corresponding difficulties. Also, ranking systems If finish game at some point whatever won or lost will pop up a small window that allows user enters their name. The game page displays ranking.]
 
 
 
