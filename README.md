@@ -50,13 +50,13 @@ Here's a walkthrough of implemented user stories:
 [Stackoverflow, Youtube JavaScript tutorial]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[This is my first  experiencing with JavaScript CSS coding. Actually, I have not leaned JavaScript in school yet. I have  heard JavaScript before, but I never done coding it. I was a interesting experience in my web programing kick-off. The way i overcame this challenge was by following the instructions which were very helpful and I also google consele error messages]
+[This is my first  experiencing with JavaScript CSS coding. Actually, I haven't learned JavaScript in school yet. I have heard JavaScript before, but I never done coding it. I was a interesting experience in my web programing kick-off. The way I overcame this challenge was by following the instructions which were very helpful and I also google console log errors when pressed  F12.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Since this is my first time web developemnt, I wan to ask how is web development handlding data. For example, If this have login account feature, then players data should store somewhere. I have learned that iOS programming used back4app.com to stored data. I was wondering what kind the backend service will used in web development? Is back4app.com will also work on web devlopment in terms of cost and time? ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[finishing ]
 
 
 
