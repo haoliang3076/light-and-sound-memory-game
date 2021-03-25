@@ -42,9 +42,7 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://media.giphy.com/media/u9QFMFej5IwhY0Bot2/giphy.gif)
 
-![](https://media.giphy.com/media/07BJQ5TCDoGZ4ryAJX/giphy.gif)
-
-![](https://media.giphy.com/media/sg3N9NhFoWJpIYNVtS/giphy.gif)
+![](https://media.giphy.com/media/IQCr1xDNz4Ty9149NF/giphy.gif)
 
 
 ## Reflection Questions
