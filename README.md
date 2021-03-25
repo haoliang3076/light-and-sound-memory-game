@@ -44,6 +44,8 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://media.giphy.com/media/07BJQ5TCDoGZ4ryAJX/giphy.gif)
 
+![](https://media.giphy.com/media/sg3N9NhFoWJpIYNVtS/giphy.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
