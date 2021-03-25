@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://media.giphy.com/media/W04EZ8pKr4VJ8CUme4/giphy.gif)
+![](https://media.giphy.com/media/u9QFMFej5IwhY0Bot2/giphy.gif)
 ![](https://media.giphy.com/media/KjUFw21swpBIkPC666/giphy.gif)
 
 
